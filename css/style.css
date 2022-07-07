@@ -139,6 +139,9 @@ background-image: linear-gradient(to left, chocolate, white);
     color: black;
 }
 
+.boton{
+    margin-bottom: 20px;
+}
 footer {
     background-color: rgb(165, 124, 49);
 }
