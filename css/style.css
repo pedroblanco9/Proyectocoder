@@ -135,7 +135,9 @@ main .contenedor-sesion {
     height: 300px;
 background-image: linear-gradient(to left, chocolate, white);
 }
-
+.icons-black {
+    color: black;
+}
 
 footer {
     background-color: rgb(165, 124, 49);
